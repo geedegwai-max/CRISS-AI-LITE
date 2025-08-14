@@ -76,7 +76,7 @@ module.exports = {
     DELETE_LINKS: process.env.DELETE_LINKS || "true",
     // automatic delete links without removing member 
 
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "255766263739",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "255614008672",
     // add your bot owner number
 
     OWNER_NAME: process.env.OWNER_NAME || "ᴄʀɪss ᴠᴇᴠᴏ",
@@ -115,7 +115,7 @@ module.exports = {
     READ_CMD: process.env.READ_CMD || "false",
     // true if want mark commands as read  
 
-    DEV: process.env.DEV || "255766263739",
+    DEV: process.env.DEV || "255614008672",
     // replace with your whatsapp number  
 
     ANTI_VV: process.env.ANTI_VV || "true",
